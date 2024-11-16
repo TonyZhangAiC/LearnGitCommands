@@ -1,3 +1,3 @@
 # LearnGitCommands
 Learn git commands
-x=5
+x=3.1
